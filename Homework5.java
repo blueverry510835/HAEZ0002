@@ -1,4 +1,4 @@
-public class HomeWork5 {
+public class Homework5 {
     public static void main(String[] args) {
         Monitor monitor = new Monitor("32 inch", "Black", "45W");
         Computer computer = new Computer("Core i7", "32GB", "2TB", "White", "700W");
